@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skills-roistat",
+  "version": "1.0.0",
+  "description": "Сквозная аналитика Roistat для Claude",
+  "owner": {
+    "name": "koystrubvs"
+  },
+  "plugins": [
+    {
+      "name": "roistat",
+      "description": "Сквозная аналитика Roistat: проекты, каналы, визиты, лиды, продажи, ROI, звонки, расходы",
+      "source": "./plugins/roistat",
+      "category": "productivity"
+    }
+  ]
+}
