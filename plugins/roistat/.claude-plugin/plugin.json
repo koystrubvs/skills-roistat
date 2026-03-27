@@ -1,12 +1,8 @@
 {
   "name": "roistat",
   "version": "1.0.0",
-  "description": "Сквозная аналитика Roistat: проекты, каналы, визиты, лиды, продажи, ROI, звонки, расходы. Cache-first подход.",
+  "description": "Сквозная аналитика Roistat: проекты, каналы, визиты, лиды, продажи, ROI, звонки, расходы",
   "author": {
-    "name": "koystrubvs",
-    "url": "https://github.com/koystrubvs"
-  },
-  "homepage": "https://github.com/koystrubvs/skills-roistat",
-  "repository": "https://github.com/koystrubvs/skills-roistat",
-  "keywords": ["roistat", "analytics", "roi", "leads", "call-tracking", "marketing"]
+    "name": "koystrubvs"
+  }
 }
