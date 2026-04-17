@@ -1,0 +1,12 @@
+{
+  "name": "ticket",
+  "version": "1.0.0",
+  "description": "Управление тикетами через MCP ticket-board: создание, статусы, завершение, учёт времени",
+  "author": {
+    "name": "koystrubvs",
+    "url": "https://github.com/koystrubvs"
+  },
+  "homepage": "https://github.com/koystrubvs/skills-koystrubvs",
+  "repository": "https://github.com/koystrubvs/skills-koystrubvs",
+  "keywords": ["ticket", "ticket-board", "task-management", "mcp", "project-management"]
+}

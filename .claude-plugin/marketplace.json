@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "skills-roistat",
-  "version": "1.1.0",
-  "description": "Аналитика Roistat и Яндекс Директ для Claude",
+  "name": "skills-koystrubvs",
+  "version": "1.2.0",
+  "description": "Персональные скиллы koystrubvs: аналитика, тикеты, инструменты",
   "owner": {
     "name": "koystrubvs"
   },
@@ -17,6 +17,12 @@
       "name": "yandex-direct",
       "description": "Аналитика Яндекс Директа: кампании, расходы, CTR, конверсии, ключевые слова, аудит агентств",
       "source": "./plugins/yandex-direct",
+      "category": "productivity"
+    },
+    {
+      "name": "ticket",
+      "description": "Управление тикетами через MCP ticket-board: создание, статусы, завершение, учёт времени",
+      "source": "./plugins/ticket",
       "category": "productivity"
     }
   ]
